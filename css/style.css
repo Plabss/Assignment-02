@@ -1,0 +1,54 @@
+.logo{
+    width: 50%;
+    height: 40px;
+}
+.shipon{
+    margin-left: 108px;
+}
+.navb{
+    background-color: rgb(247, 235, 221);
+    margin-bottom: 20px;
+}
+.lolo{
+    margin-left: 90%;
+}
+
+li.nav-item {
+    padding: 0px 18px;
+    color: black;
+    font-weight: 600;
+}
+header{
+    background-color: antiquewhite;
+}
+
+.shopingh-img{
+    width: 19px;
+    margin-right: 10px;
+}
+.woman{
+    border: 3px solid rgb(240, 226, 226);
+    border-radius: 5%;
+}
+.woman-img{
+    height: 380px;
+    width: 100%;
+    align-self: center;
+    border: 14px solid white;
+    border-radius: 39px;
+    background-color: whitesmoke;
+
+}
+.woman-heading{
+    margin: 40px 0px;
+}
+.span{
+    color: orangered;
+}
+.house{
+    height: 80px;
+}
+.last-part{
+    margin-top: 60px;
+    margin-bottom: 90px;
+}
